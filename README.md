@@ -50,7 +50,7 @@ hmc.jl は[Julia言語](https://julialang.org/)で書かれています。
 ```
 と打つ。
 
-(2) [Juno](https://junolab.org/) をインストールすると、mathematicaやJupyterのように、ターミナルを開かずコードブロックごとに実行できる。
+(2) [Juno](https://junolab.org/) をインストールすると、mathematicaやJupyterのように、ターミナルを開かずコードブロックごとに実行できます。
 
 (*)パッケージ Statistics, Random, Distributions がインストールされている必要があります。
 
